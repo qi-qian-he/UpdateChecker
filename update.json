@@ -1,5 +1,5 @@
 {
   "version": "1.0.5.91",
   "url": "https://raw.githubusercontent.com/qi-qian-he/UpdateChecker/refs/heads/main/BCMH_V1.0.5.91.exe",
-  "changelog": "服务器版本↑\n修复了中文任务的问题，禁止使用中文任务名字的任务\n修复任务插队的bug\n修复若干的bug"
+  "changelog": "↑服务器版本\n修复了中文任务无法正常上传的问题\n修复任务插队的bug\n修复若干的bug"
 }

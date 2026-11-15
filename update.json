@@ -1,9 +1,7 @@
 {
   "version": "1.0.5.92",
   "url": "https://raw.githubusercontent.com/qi-qian-he/UpdateChecker/refs/heads/main/BCMH_V1.0.5.92.exe",
-  "changelog": "## 1.0.5.92
-
-### 优化数据目录结构
+  "changelog": "### 优化数据目录结构
 
 - 任务文件统一放到 `TaskData` 文件夹里，任务列表也放在同一目录：
   - `plateData.json`：当前任务
